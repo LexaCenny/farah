@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["628884673015@s.whatsapp.net"],
+  "ownerName": ["Farah Canss"],
+  "botName": "Farah Bot",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/ChristianID99",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://www.instagram.com/farrahhxzzy.bila",
+  "sessionName": "session",
+  "pathimg": "./media/Farah.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
